@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "$PWD" 
+x=$(pwd)
+echo "The current working directory : $x"
+
