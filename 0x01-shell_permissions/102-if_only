@@ -1,2 +1,2 @@
 #!/bin/bash
-chown hello:vincent guillaume
+chown hello:vincent if guillaume
