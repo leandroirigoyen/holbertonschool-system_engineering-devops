@@ -1,2 +1,2 @@
 #!bin/bash
-sed -e ls -la > ls_cwd_content
+sed -f ls -la > ls_cwd_content
