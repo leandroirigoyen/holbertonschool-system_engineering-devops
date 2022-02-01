@@ -1,2 +1,2 @@
 #!/bin/bash
-TRUEKNOWLEDGE=1209 U=128 | sum=$(( $TRUEKNOWLEDGE + $U )) | export $TRUEKNOWLEDGE
+echo $((TRUEKNOWLEDGE + 128))
