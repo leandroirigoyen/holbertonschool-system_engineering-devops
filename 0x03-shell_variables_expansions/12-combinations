@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z} tr "oo" "\n" | wc -l
+echo {a..z} tr -e "oo" "\n" | wc -l
